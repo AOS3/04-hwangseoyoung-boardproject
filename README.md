@@ -20,10 +20,8 @@ SNS 및 소셜 네트워크 환경에서는 화면 전환(댓글 페이지 이�
 - 댓글 목록 상단 댓글 개수 표시
 - 화면 하단에 댓글 입력 필드 표시
 
+![스크린샷 2024-12-27 오후 7 09 58](https://github.com/user-attachments/assets/ffc1aef2-e044-4d2a-93d3-e16185fd504b)
 
-![image](https://github.com/user-attachments/assets/2efb4d80-ef0c-4496-a5bf-14c0605c029b)
-![image 2](https://github.com/user-attachments/assets/a1a1b0fb-befa-44fa-8008-dee3f1ab386c)
-![image 1](https://github.com/user-attachments/assets/48a9a48b-03f8-4220-bb42-daaf16de4a58)
 
 ## BoardReadFragment View 구성
 
