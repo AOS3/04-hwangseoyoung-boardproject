@@ -20,15 +20,15 @@ SNS 및 소셜 네트워크 환경에서는 화면 전환(댓글 페이지 이�
 - 댓글 목록 상단 댓글 개수 표시
 - 화면 하단에 댓글 입력 필드 표시
 
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image.png)
 
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image%201.png)
-
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image%202.png)
+![image](https://github.com/user-attachments/assets/2efb4d80-ef0c-4496-a5bf-14c0605c029b)
+![image 2](https://github.com/user-attachments/assets/a1a1b0fb-befa-44fa-8008-dee3f1ab386c)
+![image 1](https://github.com/user-attachments/assets/48a9a48b-03f8-4220-bb42-daaf16de4a58)
 
 ## BoardReadFragment View 구성
 
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image%203.png)
+![image 3](https://github.com/user-attachments/assets/d087decc-4887-44cb-9558-469ea811bd99)
+
 
 # 🗒️ 댓글 기능 구현 계획
 
@@ -79,11 +79,12 @@ BoardRepository와 BoardService 내에 추가로 댓글 기능을 구현했습�
     
     → 중첩 스크롤 속성(nestedScrollingEnabled)을 비활성화해준다.
     
+![image 4](https://github.com/user-attachments/assets/63d22ecc-d949-49a5-9096-16e7eadf02b2)
 
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image%204.png)
 
 - **BottomSheet 추가**
     - 댓글을 관리하기 위한 Bottom Sheet 추가
     - Fragment를 추가하여 수정, 삭제를 눌렀을때 다이얼로그가 표시되며 댓글 데이터가 업데이트 되도록 함
 
-![image.png](%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20(%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1)%2015fd37f4e74d805ba381c902b60f11a2/image%205.png)ading README.md…]()
+![image 5](https://github.com/user-attachments/assets/1a6ea261-b889-48af-a855-fb9f9453cdf8)
+
